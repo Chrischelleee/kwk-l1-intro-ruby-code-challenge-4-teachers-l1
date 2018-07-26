@@ -31,3 +31,4 @@ end
   numbers
 
 end
+puts least_coins(99)
